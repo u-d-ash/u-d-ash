@@ -6,7 +6,7 @@
  * 💻 Currently learning C++, and will continue with learning Data Structures and Algorithms
  
  * Projects made till now
-        * Tic-Tac-Toe (basic C++ implementation)
-        * Madlibs [In progress] (program allowing users to create their own madlibs game and play games made by other users (using a text file as a database))
+ Tic-Tac-Toe (basic C++ implementation)
+ Madlibs [In progress] (program allowing users to create their own madlibs game and play games made by other users (using a text file as a database))
  
  
