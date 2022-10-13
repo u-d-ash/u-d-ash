@@ -5,8 +5,6 @@
  * 💻 As of now, trying to explore the world of computer science as much as I could.
  * 💻 Currently learning C++, and will continue with learning Data Structures and Algorithms
  
- * Projects made till now
- 
- * Tic-Tac-Toe (basic C++ implementation)
+
  
  
