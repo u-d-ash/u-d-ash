@@ -5,7 +5,7 @@ Here's a comic strip... Enjoy:
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/making_plans.png" />
+ <img src="https://imgs.xkcd.com/comics/heat_pump.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
