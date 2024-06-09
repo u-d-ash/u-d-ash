@@ -1,1 +1,1 @@
-almost a junior @ math dept, iit guwahati
+math junior at indian institute of technology, guwahati
